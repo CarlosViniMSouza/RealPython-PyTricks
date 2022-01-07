@@ -1,5 +1,5 @@
 git add -A
-git commit -m "logo Real Python add in README.md"
+git commit -m "day07.py -> add"
 git push
 git status
 clear
