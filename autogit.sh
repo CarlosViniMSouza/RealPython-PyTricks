@@ -1,5 +1,5 @@
 git add -A
-git commit -m "day07.py -> add"
+git commit -m "day09.py -> add"
 git push
 git status
 clear
