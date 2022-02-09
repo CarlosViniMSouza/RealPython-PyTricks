@@ -1,5 +1,5 @@
 git add -A
-git commit -m "my_strick: code01 -> add"
+git commit -m "fev2022: day09.py -> add"
 git push
 git status
 clear
